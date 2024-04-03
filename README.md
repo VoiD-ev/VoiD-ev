@@ -39,7 +39,9 @@ You can play this one on https://skyblade-games.itch.io/yet-another-planz!
 
 ## Thank You!
 Thank you for your time!
+
 These were all of my notable work this far. Feel free to check out any of my projects and play them.
+
 Have a nice day!
 <!--
 **VoiD-ev/VoiD-ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
