@@ -23,12 +23,12 @@ A Survival game about a post-apocalyptic cyber city, ruined by drones and robots
 You can play this one on https://skyblade-games.itch.io/yet-another-planz!
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
-  <img width="400" src="https://github.com/WerdoxDev/WerdoxDev/blob/master/UcC3Ed.png" />
-  <img width="400" src="https://github.com/WerdoxDev/WerdoxDev/blob/master/hDxr%2Br.png" />
+  <img width="400" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/NtyYor.png"/>
+  <img width="400" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/Vzflu.png"/>
 </div>
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
-  <img width="400" src="https://github.com/WerdoxDev/WerdoxDev/blob/master/d2AL7y.png" />
-  <img width="400" src="https://github.com/WerdoxDev/WerdoxDev/blob/master/vZayhZ.png" />
+  <img width="400" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/WsJMzB.png"/>
+  <img width="400" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/tq6okX.png"/>
 </div>
 
 ## Thank You!
