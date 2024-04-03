@@ -24,7 +24,7 @@ You can play this one on https://skyblade-games.itch.io/yet-another-planz!
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
   <a href="https://www.youtube.com/watch?v=XUlaBoj0fWI">
-    <img width="800" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/PlanZ%20Thumbnail.png"/>
+    <img width="804" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/PlanZ%20Thumbnail.png"/>
   </a>
 </div>
 
