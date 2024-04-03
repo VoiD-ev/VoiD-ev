@@ -22,6 +22,8 @@ A Survival game about a post-apocalyptic cyber city, ruined by drones and robots
 
 You can play this one on https://skyblade-games.itch.io/yet-another-planz!
 
+[![Yet Another Plan Z Trailer](https://www.youtube.com/watch?v=XUlaBoj0fWI)
+
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
   <img width="400" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/NtyYor.png"/>
   <img width="400" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/Vzflu.png"/>
