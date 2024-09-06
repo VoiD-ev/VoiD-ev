@@ -4,8 +4,8 @@ Here you can see my Games and Projects both working in progress and finished one
 
 ## My Projects
 ### Huginn Website
-In contribution to <a href="https://github.com/werdoxdev/huginn/">Huginn Project</a> made by <a href="https://github.com/werdoxdev/">Matin Tat (Werdox)</a>, I partaken the website part of the project.
-The website is visible on the mono-repo, but the final product is going to be visible on https://Huginn.dev/ 
+In contribution to <a href="https://github.com/werdoxdev/huginn/">Huginn Project</a> made by <a href="https://github.com/werdoxdev/">Matin Tat (Werdox)</a>, I partaken making the website part of the project.
+The website is uploaded on the monorepo, but the final product is going to be visible on https://Huginn.dev/ 
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
   <img height="400" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/Screenshot 2024-09-06 201723.png" />
