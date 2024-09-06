@@ -1,5 +1,5 @@
 ## About Me
-Hey there! My name is Mahziyar Farahmandian. I am a C# and JS/TS Programmer and Game Designer.
+Hey there! My name is Mahziyar Farahmandian. I am a C#, JS/TS, Front-End Programmer and Game Designer.
 Here you can see my Games and Projects both working in progress and finished ones!
 
 ## My Projects
