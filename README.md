@@ -8,7 +8,7 @@ In contribution to <a href="https://github.com/werdoxdev/huginn/">Huginn Project
 The website is uploaded on the monorepo, but the final product is going to be visible on https://Huginn.dev/ 
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
-  <img width="100%" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/Screenshot 2024-09-06 201723.png" />
+  <img width="100%" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/github-huginn-preview.png" />
 </div>
 
 ### Holloween Night Shift
