@@ -5,7 +5,7 @@ Here you can see my Games and Projects both working in progress and finished one
 ## My Projects
 ### Huginn Website
 In contribution to <a href="https://github.com/werdoxdev/huginn/">Huginn Project</a> made by <a href="https://github.com/werdoxdev/">Matin Tat (Werdox)</a>, I partaken making the website of the project.
-The website is uploaded on the monorepo, but the final product is going to be visible on https://Huginn.dev/ 
+Go download Huginn! (https://Huginn.dev/) 
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
   <img width="100%" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/github-huginn-preview.png" />
