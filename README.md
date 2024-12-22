@@ -5,7 +5,7 @@ Here you can see my Games and Projects both working in progress and finished one
 ## My Projects
 ### Goblynn Website
 My secound website made for bank logging and keeping track of your spending! The idea came from my day-to-day experience where I had to track my spending on a paper but wanted a more automated and sophisticated system for the matter.
-<a href="http://goblynn.vercel.app">Try it out!</a> 
+<div><a href="http://goblynn.vercel.app">Try it out!</a></div> 
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
   <img width="100%" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/GoblynnPreview.png" />
@@ -13,7 +13,7 @@ My secound website made for bank logging and keeping track of your spending! The
 
 ### Huginn Website
 In contribution to <a href="https://github.com/werdoxdev/huginn/">Huginn Project</a> made by <a href="https://github.com/werdoxdev/">Matin Tat (Werdox)</a>, I partaken making the website of the project.
-<a href="http://huginn.dev/">Go download Huginn!</a> 
+<div><a href="http://huginn.dev/">Go download Huginn!</a></div> 
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
   <img width="100%" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/github-huginn-preview.png" />
