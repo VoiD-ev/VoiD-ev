@@ -16,7 +16,7 @@ In contribution to <a href="https://github.com/werdoxdev/huginn/">Huginn Project
 <a href="http://huginn.dev/">Go download Huginn!</a>
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
-  <img width="100%" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/github-huginn-preview.png" />
+  <img width="100%" src="https://github.com/VoiD-ev/VoiD-ev/blob/main/github-huginn-preview-new.png" />
 </div>
 
 ### Holloween Night Shift
